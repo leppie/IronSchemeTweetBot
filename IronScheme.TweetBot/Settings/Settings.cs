@@ -6,7 +6,7 @@
         {
             ConsumerSecret = "";
             ConsumerKey = "";
-            Token = "37156582-";
+            Token = "";
             TokenSecret = "";
             Timeout = 60*1000;
             DueTime = 30*1000;
