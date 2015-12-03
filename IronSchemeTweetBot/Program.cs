@@ -48,9 +48,11 @@ namespace IronSchemeTweetBot
 
         class Response
         {
+#pragma warning disable 649
             public string result;
             public string output;
             public string error;
+#pragma warning restore 649
         }
 
         public void Run()
